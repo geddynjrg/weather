@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+#weather-container {
+  margin: 20px auto;
+  width: 300px;
+  text-align: center;
+}
+
+#location-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#get-weather-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#weather-info {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
